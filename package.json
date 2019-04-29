@@ -1,0 +1,14 @@
+{
+  "name": "@_mon/tiny",
+  "version": "1.0.0",
+  "description": "Removes all spaced from a string",
+  "license": "MIT",
+  "repository": "mounica-durga/tiny",
+  "main": "index.js",
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "_mon"
+  ]
+}
